@@ -1,0 +1,53 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>menu_background.jpg</file>
+        <file>menu_background_2.jpg</file>
+        <file>end_screen_background.jpg</file>
+    </qresource>
+    <qresource prefix="/catDiagramBackground">
+        <file>catDiagramBody.png</file>
+    </qresource>
+    <qresource prefix="/catDiagramParts-opaque">
+        <file>catBack.png</file>
+        <file>catBody.png</file>
+        <file>catHead.png</file>
+        <file>catLegs.png</file>
+        <file>catMouth.png</file>
+        <file>catNeck.png</file>
+        <file>catRear.png</file>
+        <file>catTail.png</file>
+    </qresource>
+    <qresource prefix="/quizQuestions">
+        <file>CatScratching.mp4</file>
+        <file>catslowblink.mp4</file>
+        <file>catplayful.mp4</file>
+        <file>angryCat.jpg</file>
+        <file>bellyCat.jpg</file>
+        <file>bunting.mp4</file>
+        <file>elevatorButt.jpg</file>
+        <file>friendlyCat.jpg</file>
+        <file>scaredCat.jpg</file>
+        <file>scruffing.jpg</file>
+        <file>trilling.mp4</file>
+        <file>zoomies.mp4</file>
+    </qresource>
+    <qresource prefix="/quizImages">
+        <file>cheese.jpg</file>
+        <file>wall.jpg</file>
+        <file>mouse.png</file>
+        <file>quizGameBackdrop.jpg</file>
+        <file>cheeseSpawnZone.jpg</file>
+        <file>mouseTrap.jpg</file>
+        <file>quizGameBackdrop2.jpg</file>
+    </qresource>
+    <qresource prefix="/catDiagramParts-translucent">
+        <file>catBack-tp.png</file>
+        <file>catBody-tp.png</file>
+        <file>catHead-tp.png</file>
+        <file>catLegs-tp.png</file>
+        <file>catMouth-tp.png</file>
+        <file>catNeck-tp.png</file>
+        <file>catRear-tp.png</file>
+        <file>catTail-tp.png</file>
+    </qresource>
+</RCC>
